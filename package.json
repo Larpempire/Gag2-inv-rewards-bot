@@ -1,0 +1,21 @@
+{
+  "name": "grow-a-garden-rewards-bot",
+  "version": "2.0.0",
+  "description": "XANDER — Minimal Discord.js v14 bot: Reward Ticket System + Native Invite Tracker. Render + Node 20 ready.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "keywords": ["discord", "bot", "tickets", "invite-tracker", "rewards", "render"],
+  "author": "XANDER",
+  "license": "MIT"
+}
